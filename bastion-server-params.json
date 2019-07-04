@@ -1,0 +1,14 @@
+[
+    {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject"
+    },
+    {
+    "ParameterKey": "NetworkAccessIP",
+    "ParameterValue": "144.136.38.245/32"
+    },
+    {
+    "ParameterKey": "BastionHostSSHKeyName",
+    "ParameterValue": "gurootraining"
+    }
+]
